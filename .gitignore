@@ -7,11 +7,12 @@ exercises/clippy/Cargo.toml
 exercises/clippy/Cargo.lock
 rust-project.json
 .idea
-.vscode/*
-!.vscode/extensions.json
+# .vscode/*
+# !.vscode/extensions.json
 *.iml
 *.o
 public/
+__temp/
 
 # Local Netlify folder
 .netlify
